@@ -1,1 +1,2 @@
 test git version 1
+exercice git commit 1
